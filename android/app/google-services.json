@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181691667203",
+    "project_id": "flix-id-c20cb",
+    "storage_bucket": "flix-id-c20cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181691667203:android:111f4d64cf4074c3e28f36",
+        "android_client_info": {
+          "package_name": "com.kirara.flix_id"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJa2C5KFw2Yd4DPzJdyvfHh6hsxAVN3Lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
