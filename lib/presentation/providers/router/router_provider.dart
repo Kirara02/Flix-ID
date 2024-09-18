@@ -3,7 +3,7 @@ import 'dart:io';
 import 'package:flix_id/domain/entities/movie.dart';
 import 'package:flix_id/domain/entities/movie_detail.dart';
 import 'package:flix_id/domain/entities/transaction.dart';
-import 'package:flix_id/presentation/detail_movie/detail_page.dart';
+import 'package:flix_id/presentation/pages/detail_movie/detail_page.dart';
 import 'package:flix_id/presentation/pages/booking_confirmation/booking_confirmation_page.dart';
 import 'package:flix_id/presentation/pages/login/login_page.dart';
 import 'package:flix_id/presentation/pages/main/main_page.dart';

@@ -2,7 +2,7 @@ import 'package:flix_id/presentation/misc/methods.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import '../../../../domain/entities/movie_detail.dart';
+import '../../../../../domain/entities/movie_detail.dart';
 
 List<Widget> movieOverview(AsyncValue<MovieDetail?> asyncMovieDetail) => [
       const Text(
